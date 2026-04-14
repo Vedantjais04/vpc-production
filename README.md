@@ -1,4 +1,6 @@
 <img width="611" height="481" alt="vpc-example-private-subnets" src="https://github.com/user-attachments/assets/7d5f20d3-bf1c-437e-9bb0-97983aba805a" />
+
+
 # 🚀 AWS VPC Production Architecture (DevOps Project)
 
 ## 📌 Overview
